@@ -41,4 +41,4 @@ If you want to contact me you can reach me at [Twitter](https://www.twitter.com/
 
 ## License
 
-This project is **free use** and does not contains any license.
+This project is **free use from Big30farms** and does not contains any license.
